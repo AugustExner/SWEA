@@ -1,0 +1,22 @@
+{
+  "units": [
+{
+  "type": "ARCHER",
+  "cost": 10,
+  "defense": 3,
+  "defense": 2
+},
+{
+"type": "LEGION",
+"cost": 15,
+"defense": 2,
+"defense": 4
+}, {
+"type": "SETTLER",
+"cost": 30,
+"defense": 3,
+"defense": 0
+}
+
+   ]
+  }
